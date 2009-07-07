@@ -1,1 +1,7 @@
+* Info:
+
 A railscast vim colorscheme port for NetBeans. Original theme can be found here: http://www.vim.org/scripts/script.php?script_id=2175
+
+* Installation:
+
+Either copy the appropriate files to your NetBeans' config directory or zip the colorscheme and import into the IDE (available from version 7.1).
