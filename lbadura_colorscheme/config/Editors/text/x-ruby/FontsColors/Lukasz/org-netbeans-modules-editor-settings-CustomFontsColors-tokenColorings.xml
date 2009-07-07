@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffffc66d" name="mod-method"/>
+    <fontcolor foreColor="ffeddd37" name="STRING_ESCAPE">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" foreColor="ffaaaaff" name="COMMENT_RDOC">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-private"/>
+    <fontcolor name="mod-protected"/>
+    <fontcolor name="mod-deprecated" strikeThrough="darkGray"/>
+    <fontcolor default="number" name="DOUBLE_LITERAL"/>
+    <fontcolor default="comment" name="COMMENT_HTMLTAG">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff098618" name="CLASS_VAR">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor default="field" name="INSTANCE_VAR"/>
+    <fontcolor name="mod-local-variable"/>
+    <fontcolor name="mod-package-private"/>
+    <fontcolor foreColor="ff99006b" name="COMMENT_TODO">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff8aa6c1" name="mod-parameter"/>
+    <fontcolor default="string" name="STRING_LITERAL"/>
+    <fontcolor name="mod-static"/>
+    <fontcolor default="default" name="COMMENT_ITALIC">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="identifier" foreColor="ffcc7833" name="IDENTIFIER"/>
+    <fontcolor foreColor="ff6d9cbe" name="mod-class"/>
+    <fontcolor default="comment" name="BLOCK_COMMENT"/>
+    <fontcolor foreColor="ffff006b" name="STRING_INVALID" strikeThrough="ffff006b">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="DOCUMENTATION"/>
+    <fontcolor name="mod-enum"/>
+    <fontcolor default="number" name="INT_LITERAL"/>
+    <fontcolor foreColor="ff6d9cbe" name="TYPE_SYMBOL"/>
+    <fontcolor name="mod-annotation-type"/>
+    <fontcolor name="mod-interface"/>
+    <fontcolor default="comment" name="LINE_COMMENT"/>
+    <fontcolor default="operator" foreColor="ffffc66d" name="ANY_OPERATOR"/>
+    <fontcolor default="whitespace" name="WHITESPACE"/>
+    <fontcolor default="default" foreColor="ff4747dc" name="COMMENT_LINK"/>
+    <fontcolor bgColor="ff2b2b2b" name="mark-occurrences"/>
+    <fontcolor foreColor="ff99006b" name="TODO">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-abstract"/>
+    <fontcolor default="comment" foreColor="orange" name="COMMENT_TEXT"/>
+    <fontcolor default="error" name="ERROR"/>
+    <fontcolor default="number" name="LONG_LITERAL"/>
+    <fontcolor foreColor="white" name="mod-field">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="QUOTED_STRING_LITERAL"/>
+    <fontcolor default="default" name="COMMENT_BOLD">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-public"/>
+    <fontcolor default="number" name="FLOAT_LITERAL"/>
+    <fontcolor name="mod-constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor foreColor="ff9933cc" name="REGEXP_LITERAL"/>
+    <fontcolor default="string" name="STRING_TEXT"/>
+    <fontcolor name="mod-unused" waveUnderlined="ffff8888"/>
+    <fontcolor foreColor="ffda4939" name="CONSTANT">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor foreColor="yellow" name="GLOBAL_VAR">
+        <font style="italic"/>
+    </fontcolor>
+</fontscolors>
